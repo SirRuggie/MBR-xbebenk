@@ -5,7 +5,7 @@ The installation files and instructions for MyBotRun xbebenk
 
 ## Needed files included in Repo
 * BlueStacksInstaller (5.9.140.1014)
-* SourceTree
+* SourceTree (3.4.10)
 * AutoIt (3.3.14.5)
 * RivaTuner
 
@@ -104,6 +104,55 @@ You can rename this to anything you want, but take note that you MUST remember t
 *BlueStacks Installation and configuration complete*
 
 ## <a name="sourcetree"></a>SourceTree Installation
+* Download the Sourcetree Setup file
+* Double click on SourcetreeSetup.exe
+  * if a User Account Control window appears, select Yes   
+
+
+![Images](Images/Sourcetree/Sourcetree_01.png)
+* Click Skip on the Registration Menu
+
+![Images](Images/Sourcetree/Sourcetree_02.png)
+* Click Next
+
+![Images](Images/Sourcetree/Sourcetree_03.png)
+* Click Cancel on the error message
+
+![Images](Images/Sourcetree/Sourcetree_04.png)
+* Click Next
+
+![Images](Images/Sourcetree/Sourcetree_05.png)
+* Enter your email and click Next
+
+![Images](Images/Sourcetree/Sourcetree_06.png)
+* Select No
+
+**Once the setup is successful, you'll see a window like below:**  
+![Images](Images/Sourcetree/Sourcetree_07.png)
+
+
+![Images](Images/Sourcetree/Sourcetree_08.png)
+* Click on "Clone" from the top menu
+
+
+![Images](Images/Sourcetree/Sourcetree_09.png)  
+**Source Path:** https://github.com/xbebenk/MBR_xbebenkMOD  
+**Destination Path:** Where you intend to have your MBR folder  
+**Name:** Choose any name you prefer  
+
+
+![Images](Images/Sourcetree/Sourcetree_10.png)
+* Click "Clone" 
+  * This will download xbebenkmod and save it in the given folder on my desktop.
+
+
+![Images](Images/Sourcetree/Sourcetree_11.png)  
+Successful cloned xbebenkMOD on our desktop
+
+![Images](Images/Sourcetree/Sourcetree_12.png)  
+Folder structure that we cloned
+
+*Sourcetree Installation Complete*
 
 ## <a name="autoit"></a>AutoIt Installation
 * Download the AutoIt Setup file
