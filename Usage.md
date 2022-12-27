@@ -18,7 +18,9 @@ It is recommended that you follow the below step under Single Session if this is
   * Close out MyBotRun and open the source folder that Sourcetree downloaded to.
 
 ![Images](Images/Usage/MyBotRun_06.png)  
+* As seen above, there was a profiles folder created, open it.  
 
+![Images](Images/Usage/MyBotRun_07.png)  
 
 ## <a name="multi"></a>Multi-Session
 
