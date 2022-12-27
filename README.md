@@ -2,7 +2,7 @@
 The installation files and instructions for MyBotRun xbebenk 
 
 **Note:** *It is Recommended to run MyBotRun on a computer that you **DO NOT** use on a regular basis due to it running 24/7*
-
+and we can even [link](#head1234) to it so:
 ## Needed files included in Repo
 * AutoIt (3.3.14.5)
 * RivaTuner
@@ -97,3 +97,4 @@ The installation files and instructions for MyBotRun xbebenk
   * Framerate limit "20"
 
 * Minimize RivaTuner **DO NOT Close**
+### <a name="head1234"></a>A Heading in this SO entry!
