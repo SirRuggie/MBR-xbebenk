@@ -34,6 +34,8 @@ It is recommended that you follow the below step under Single Session if this is
   * if a User Account Control window appears, select Yes   
 
 * Once Loaded, open BlueStacks 5 Multi-Instance manager
+
+![Images](Images/Usage/BlueStacks_18.png)  
 * Start the first BlueStacks Instance from the menu
 
 
