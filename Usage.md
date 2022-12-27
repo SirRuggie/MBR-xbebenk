@@ -7,7 +7,6 @@ It is recommended that you follow the below step under Single Session if this is
 ### First Time Use Setup
 * Open the folder that xbebenk was downloaded to via Sourcetree.
 
-
 ![Images](Images/Usage/MyBotRun_01.png)  
 * Right-Click on MyBot.run.au3 and select "Run Script (x86)"
   * if a User Account Control window appears, select Yes   
@@ -26,7 +25,11 @@ It is recommended that you follow the below step under Single Session if this is
 * Use one of the configs from [Configs](./Configs) to update with the appropriate Amazon configs.
   * **NOTE:** The included configs in the folders are from my personal preference for the Town Hall levels. These configs can be updated within MyBotRun to meet your personal preferences.
 
+* Open the folder that xbebenk was downloaded to via Sourcetree.
 
+![Images](Images/Usage/MyBotRun_01.png)  
+* Right-Click on MyBot.run.au3 and select "Run Script (x86)"
+  * if a User Account Control window appears, select Yes   
 
 
 ## <a name="multi"></a>Multi-Session
