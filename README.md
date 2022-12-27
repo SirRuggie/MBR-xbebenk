@@ -21,8 +21,9 @@ The installation files and instructions for MyBotRun xbebenk
 * Double click on BlueStacksInstaller.exe
   * if a User Account Control window appears, select Yes    
 
-![Images](Images/AutoIt/AutoIt_01.png)
-* Click Install Now and close BlueStacks out once it is open. 
+![Images](Images/BlueStacks/BlueStacks_01.png)
+* Click Install now and close BlueStacks session once installation is complete. 
+
 * Go to your desktop and double-click on "BlueStacks 5 Multi-Instance Manager"
 By default BlueStacks will name each instance "BlueStacks App Player" with a number behind it. 
 You can rename this to anything you want, but take note that you MUST remember the following naming later on once we start the bot. 
@@ -32,14 +33,17 @@ You can rename this to anything you want, but take note that you MUST remember t
   * Nougat32_2
   * etc
 
+![Images](Images/BlueStacks/BlueStacks_02.png)
 * Click on the gear to the right of the BlueStacks instance
 
+![Images](Images/BlueStacks/BlueStacks_03.png)
 * On Performance change the following Settings:
   * CPU allocation: Low (1Core)
   * Memory allocation: low (1GB)
   * Frame rate: 20
 * Click Save Changes and Click the Gear again to open the settings menu
 
+![Images](Images/BlueStacks/BlueStacks_04.png)
 * Select Display on the left tab menu and change the following settings:
   * Display Resolution: Custom 
     * Click Add resolution
@@ -50,6 +54,7 @@ You can rename this to anything you want, but take note that you MUST remember t
   * Pixel density: 160 DPI (Low)
   * Click Save Changes and Click the Gear again to open the settings menu
 
+![Images](Images/BlueStacks/BlueStacks_05.png)
 * Select Graphics on the left tab menu and change the following settings:
   * Graphics engine mode: Compatibility
 * Click Save Changes
@@ -57,33 +62,43 @@ You can rename this to anything you want, but take note that you MUST remember t
 ### <a name="cocinstall"></a>Clash of Clans install on BlueStacks Instance  
 * From the BlueStacks multi-instance manager, click start on the first BlueStacks instance
 
+![Images](Images/BlueStacks/BlueStacks_06.png)
 * Once Loaded click on the "System apps" folder and open Chrome
-
 * Go to Amazon.com and search for Amazon Appstore
 
+![Images](Images/BlueStacks/BlueStacks_07.png)
 * Click Download and Install Amazon Appstore
 
+![Images](Images/BlueStacks/BlueStacks_08.png)
 * Click Get Amazon AppStore
 
-* Click Download
+![Images](Images/BlueStacks/BlueStacks_09.png)
+* Click Ok on the security pop up at the bottom of the screen
 
-* Click Open
+![Images](Images/BlueStacks/BlueStacks_10.png)
+* Click Open on the pop up at the bottom of the screen
 
+![Images](Images/BlueStacks/BlueStacks_11.png)
 * Click Install
 
+![Images](Images/BlueStacks/BlueStacks_12.png)
 * Click Open
 
+![Images](Images/BlueStacks/BlueStacks_13.png)
 * Click on Sign In or Create a new Amazon Account
 
-* Search for Clash of Clans and Install
+![Images](Images/BlueStacks/BlueStacks_14.png)
+* Once Signed in, Search for Clash of Clans and Install
 
+![Images](Images/BlueStacks/BlueStacks_15.png)
 * Click Install on the pop up
+* Close out of the BlueStacks Session when the Clash installation is complete and open the multi-instance manager.
 
-* Close out of the BlueStacks Session once Installation is complete and open the multi-instance manager.
-
+![Images](Images/BlueStacks/BlueStacks_16.png)
 * Click on the Clone Instance button
 
-* Leave the Clone Instance menu settings as default. this will take the settings that was set earlier in the BlueStacks installation and duplicate it to the new instances. 
+![Images](Images/BlueStacks/BlueStacks_17.png)
+* Leave the Clone Instance menu settings as default. This will take the settings that was set earlier in the BlueStacks installation and duplicate it to the new instances. 
   * Instance count can be changed to 2 or more (*Not all machines can handle more than 2. This will be based on your machines performance*)
 
 *BlueStacks Installation and configuration complete*
