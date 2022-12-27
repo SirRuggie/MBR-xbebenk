@@ -28,4 +28,4 @@ The installation files and instructions for MyBotRun xbebenk
 
 
 ## Using MyBotRun xbebenk
-[Useage](Useage.md)  
+[Usage](Usage.md)  
