@@ -25,6 +25,8 @@ It is recommended that you follow the below step under Single Session if this is
 * Use one of the configs from [Configs](./Configs) to update with the appropriate Amazon configs.
   * **NOTE:** The included configs in the folders are from my personal preference for the Town Hall levels. These configs can be updated within MyBotRun to meet your personal preferences.
 
+**Relaunch MyBotRun**  
+
 * Open the folder that xbebenk was downloaded to via Sourcetree.
 
 ![Images](Images/Usage/MyBotRun_01.png)  
