@@ -6,7 +6,7 @@ MyBotRun can be launched multiple different ways depending on how you'd like to 
 ### Launching MyBotRun directly from folder
 * Open the folder that xbebenk was downloaded to via Sourcetree.
 * 
-
+![Images](Images/Usage/MyBotRun_01.png)
 
 ## <a name="multi"></a>Multi-Session
 
