@@ -10,11 +10,10 @@ The installation files and instructions for MyBotRun xbebenk
 * SourceTree
 
 # Installation QuickLinks
-[AutoIt](#AutoIt)  
-[RivaTuner](#RivaTuner)
+[AutoIt](#autoit)  
+[RivaTuner](#rivatuner)
 
-
-## <a name="AutoIt"></a>AutoIt Installation
+### <a name="autoit"></a>AutoIt Installation
 * Download the AutoIt Setup file
 * Double click on AutoIt-Setup.exe
   * if a User Account Control window appears, select Yes    
@@ -56,7 +55,7 @@ The installation files and instructions for MyBotRun xbebenk
 
 *AutoIt Installation Complete*
 
-## <a name="RivaTuner"></a>RivaTuner Installation 
+### <a name="rivatuner"></a>RivaTuner Installation 
 * Download the RivaTuner Setup file
 * Double Click on RTSSSetup732.exe
   * if a User Account Control window appears, select Yes      
@@ -102,4 +101,3 @@ The installation files and instructions for MyBotRun xbebenk
   * Framerate limit "20"
 
 * Minimize RivaTuner **DO NOT Close**
-### <a name="head1234"></a>A Heading in this SO entry!
