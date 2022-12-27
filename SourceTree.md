@@ -31,4 +31,9 @@ If there are any updates to the existing code, it will show as follows; A list o
 
 *This will update the files in your bot folder!*
 
+
+"Fetch" & "Pull", Simple as that! You're on the latest commit!
+
+
+## Copy your profiles to the bot folder created by Sourcetree
 ![Images](Images/Sourcetree/Sourcetree_19.png)  
