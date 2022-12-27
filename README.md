@@ -12,8 +12,7 @@ The installation files and instructions for MyBotRun xbebenk
 # Installation QuickLinks
 [Initial Setup](InitialSetup.md)
 
-[Initial Setup](InitialSetup.md#sub-section)
-[BlueStacks](#bluestacks)  
+[BlueStacks](InitialSetup.md#bluestacks)  
 [Amazon Clash of Clans Install](#cocinstall)  
 [SourceTree](#sourcetree)  
 [AutoIt](#autoit)  
