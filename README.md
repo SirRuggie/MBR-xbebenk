@@ -11,6 +11,7 @@ The installation files and instructions for MyBotRun xbebenk
 
 # Installation QuickLinks
 [BlueStacks](#bluestacks)  
+[Amazon Clash of Clans Install](#cocinstall)  
 [SourceTree](#sourcetree)  
 [AutoIt](#autoit)  
 [RivaTuner](#rivatuner)  
@@ -37,7 +38,7 @@ You can rename this to anything you want, but take note that you MUST remember t
   * CPU allocation: Low (1Core)
   * Memory allocation: low (1GB)
   * Frame rate: 20
-* Click Save Changes and click on the gear again.
+* Click Save Changes and Click the Gear again to open the settings menu
 
 * Select Display on the left tab menu and change the following settings:
   * Display Resolution: Custom 
@@ -47,8 +48,13 @@ You can rename this to anything you want, but take note that you MUST remember t
     * Click save on the right of the resolution menu
     * Select the 860 x 676 radio button
   * Pixel density: 160 DPI (Low)
+  * Click Save Changes and Click the Gear again to open the settings menu
 
+* Select Graphics on the left tab menu and change the following settings:
+  * Graphics engine mode: Compatibility
+* Click Save Changes
 
+### <a name="cocinstall"></a>Clash of Clans install on BlueStacks Instance
 
 ## <a name="sourcetree"></a>SourceTree Installation
 
