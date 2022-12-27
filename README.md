@@ -13,7 +13,7 @@ The installation files and instructions for MyBotRun xbebenk
 [Initial Setup](InitialSetup.md)
 
 [BlueStacks](InitialSetup.md#bluestacks)  
-[Amazon Clash of Clans Install](#cocinstall)  
-[SourceTree](#sourcetree)  
-[AutoIt](#autoit)  
-[RivaTuner](#rivatuner)  
+[Amazon Clash of Clans Install](InitialSetup.md#cocinstall)  
+[SourceTree](InitialSetup.md#sourcetree)  
+[AutoIt](InitialSetup.md#autoit)  
+[RivaTuner](InitialSetup.md#rivatuner)  
