@@ -10,8 +10,9 @@ The installation files and instructions for MyBotRun xbebenk
 * RivaTuner
 
 # Installation QuickLinks
-[Initial Setup](InitialSetup.md#sub-section)
+[Initial Setup](InitialSetup.md)
 
+[Initial Setup](InitialSetup.md#sub-section)
 [BlueStacks](#bluestacks)  
 [Amazon Clash of Clans Install](#cocinstall)  
 [SourceTree](#sourcetree)  
