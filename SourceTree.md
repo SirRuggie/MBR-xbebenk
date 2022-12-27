@@ -21,4 +21,7 @@ And now, under branches you can see that we have both the dev & main branches av
 ![Images](Images/Sourcetree/Sourcetree_16.png)  
 If you want to switch between branches, you may right click on the branch you want to switch to,  and select checkout. 
 
+## How to update bot to the latest / current version as and when a commit is pushed or in layman terms - How to check for updates and update to the latest version of the bot  / branch.
+
 ![Images](Images/Sourcetree/Sourcetree_17.png)  
+If you want to check if xbebenk / Jason has pushed any new updates to the branch you're currently in, you may click on the "Fetch" button highlighted above. 
