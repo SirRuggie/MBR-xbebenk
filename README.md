@@ -5,6 +5,7 @@ The installation files and instructions for MyBotRun xbebenk
 
 ## Needed files included in Repo
 * AutoIt (3.3.14.5)
+* RivaTuner
 * BlueStacksInstaller (5.9.140.1014)
 * SourceTree
 
@@ -14,7 +15,7 @@ The installation files and instructions for MyBotRun xbebenk
   * if a User Account Control window appears, select Yes    
 
 ![Images](Images/AutoIt/AutoIt_01.png)
-* Click Next and **leave all defaults**  
+* Click Next and **leave all defaults selected**  
 
 ![Images](Images/AutoIt/AutoIt_02.png)
 * Click I Agree  
@@ -50,4 +51,49 @@ The installation files and instructions for MyBotRun xbebenk
 
 *AutoIt Installation Complete*
 
-## 
+## RivaTuner Installation 
+* Download the RivaTuner Setup file
+* Double Click on RTSSSetup732.exe
+  * if a User Account Control window appears, select Yes      
+
+![Images](Images/RivaTuner/RivaTuner_01.png)
+* Select Ok and **Leave all defaults selected**
+
+![Images](Images/RivaTuner/RivaTuner_02.png)
+* Select Next
+
+![Images](Images/RivaTuner/RivaTuner_03.png)
+* Select "I accept" radio button and click Next
+
+![Images](Images/RivaTuner/RivaTuner_04.png)
+* Select Next
+
+![Images](Images/RivaTuner/RivaTuner_05.png)
+* Select Install
+
+![Images](Images/RivaTuner/RivaTuner_06.png)
+* Click Finish
+
+**After installation is complete, edit Riva Tuner settings**  
+
+![Images](Images/RivaTuner/RivaTuner_07.png)
+* Click the Windows Start Menu and search for RivaTuner and select "RivaTuner Statistics Server"
+  * if a User Account Control window appears, select Yes    
+
+![Images](Images/RivaTuner/RivaTuner_08.png)
+* Click OK on the DirectX Warning
+
+![Images](Images/RivaTuner/RivaTuner_09.png)
+* Click "No" on the Download Page Menu **DO NOT UPDATE**
+
+![Images](Images/RivaTuner/RivaTuner_10.png)
+* RivaTuner will now open and display as an icon on the task tray on the bottom right above the clock. Click on the icon to open RivaTuner.
+
+![Images](Images/RivaTuner/RivaTuner_11.png)  
+**Once Riva Tuner is open change the following settings**
+* Settings
+  * Start with Windows "On"
+  * Application Detection level "High"
+  * Framerate limit "20"
+
+* Minimize RivaTuner **DO NOT Close**
