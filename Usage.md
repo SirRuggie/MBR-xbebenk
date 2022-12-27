@@ -1,6 +1,8 @@
 # The Usage guide to MyBotRun xbebenk
 
 ## <a name="single"></a>Single Session
+### Launching MyBotRun directly from folder
+
 
 ## <a name="multi"></a>Multi-Session
 
