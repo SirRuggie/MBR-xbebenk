@@ -1,4 +1,4 @@
-##  [sub-section](initialsetup.md#sub-section)
+##  [sub-section](InitialSetup.md#sub-section)
 
 # MBR-xbebenk
 The installation files and instructions for MyBotRun xbebenk 
