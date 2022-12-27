@@ -42,6 +42,8 @@ It is recommended that you follow the below step under Single Session if this is
   * Select the Profiles sub-tab and click the blue down arrow to pull the CoC Shared Prefs (
     * Clicking the blue down arrow saves your current BlueStacks Logged in clash session to the current MyBotRun Profile (MyVillage folder)
 
+* Click Start Bot and watch it work
+
 
 ## <a name="multi"></a>Multi-Session
 
