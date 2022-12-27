@@ -4,7 +4,7 @@ MyBotRun can be launched multiple different ways depending on how you'd like to 
 It is recommended that you follow the below step under Single Session if this is the first time.
 
 ## <a name="single"></a>Single Session
-### Launching MyBotRun directly from folder
+### First Time Use Setup
 * Open the folder that xbebenk was downloaded to via Sourcetree.
 
 
@@ -23,7 +23,8 @@ It is recommended that you follow the below step under Single Session if this is
 ![Images](Images/Usage/MyBotRun_07.png)  
 * Open MyVillage folder (The default folder created by MyBotRun)
 * **Important** The config file MUST be updated in order for Clash of Clans to launch.
-* Use one of the configs from [Configs](./Configs)  
+* Use one of the configs from [Configs](./Configs) to update with the appropriate Amazon configs.
+  * **NOTE:** The included configs in the folders are from my personal preference for the Town Hall levels. These configs can be updated within MyBotRun to meet your personal preferences.
 
 
 
