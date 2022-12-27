@@ -1,5 +1,5 @@
 # The Usage guide to MyBotRun xbebenk
-MyBotRun can be launched multiple different ways depending on how you'd like to use it and how many accounts you have connected. 
+MyBotRun can be launched multiple different ways depending on how you'd like to use it and how many accounts you have connected.   
 **Note:** If you have not launched MyBotRun before, there will not be a profiles folder in the directory where you pulled from Sourcetree. 
 
 ## <a name="single"></a>Single Session
