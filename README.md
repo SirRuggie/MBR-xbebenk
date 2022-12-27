@@ -48,5 +48,6 @@ The installation files and instructions for MyBotRun xbebenk
 ![Images](Images/AutoIt/AutoIt_11.png)
 * Click New and add the AutoIt folder there "C:\Program Files (x86)\AutoIt3"
 
+*AutoIt Installation Complete*
 
 ## 
