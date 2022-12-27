@@ -226,3 +226,4 @@ Folder structure that we cloned
   * Framerate limit "20"
 
 * Minimize RivaTuner **DO NOT Close**
+
