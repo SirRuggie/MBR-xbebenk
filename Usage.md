@@ -33,6 +33,10 @@ It is recommended that you follow the below step under Single Session if this is
 * Right-Click on MyBot.run.au3 and select "Run Script (x86)"
   * if a User Account Control window appears, select Yes   
 
+* Once Loaded, open BlueStacks 5 Multi-Instance manager
+* Start the first BlueStacks Instance from the menu
+
+
 
 ## <a name="multi"></a>Multi-Session
 
