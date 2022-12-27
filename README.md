@@ -54,7 +54,39 @@ You can rename this to anything you want, but take note that you MUST remember t
   * Graphics engine mode: Compatibility
 * Click Save Changes
 
-### <a name="cocinstall"></a>Clash of Clans install on BlueStacks Instance
+### <a name="cocinstall"></a>Clash of Clans install on BlueStacks Instance  
+* From the BlueStacks multi-instance manager, click start on the first BlueStacks instance
+
+* Once Loaded click on the "System apps" folder and open Chrome
+
+* Go to Amazon.com and search for Amazon Appstore
+
+* Click Download and Install Amazon Appstore
+
+* Click Get Amazon AppStore
+
+* Click Download
+
+* Click Open
+
+* Click Install
+
+* Click Open
+
+* Click on Sign In or Create a new Amazon Account
+
+* Search for Clash of Clans and Install
+
+* Click Install on the pop up
+
+* Close out of the BlueStacks Session once Installation is complete and open the multi-instance manager.
+
+* Click on the Clone Instance button
+
+* Leave the Clone Instance menu settings as default. this will take the settings that was set earlier in the BlueStacks installation and duplicate it to the new instances. 
+  * Instance count can be changed to 2 or more (*Not all machines can handle more than 2. This will be based on your machines performance*)
+
+*BlueStacks Installation and configuration complete*
 
 ## <a name="sourcetree"></a>SourceTree Installation
 
