@@ -4,6 +4,8 @@ MyBotRun can be launched multiple different ways depending on how you'd like to 
 
 ## <a name="single"></a>Single Session
 ### Launching MyBotRun directly from folder
+* Open the folder that xbebenk was downloaded to via Sourcetree.
+* 
 
 
 ## <a name="multi"></a>Multi-Session
