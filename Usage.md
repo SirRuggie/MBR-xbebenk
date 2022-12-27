@@ -22,7 +22,8 @@ It is recommended that you follow the below step under Single Session if this is
 
 ![Images](Images/Usage/MyBotRun_07.png)  
 * Open MyVillage folder (The default folder created by MyBotRun)
-* 
+* **Important** The config file MUST be updated in order for Clash of Clans to launch.
+* Use one of the configs from [Configs](\Configs)  
 
 
 
