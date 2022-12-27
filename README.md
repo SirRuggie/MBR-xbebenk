@@ -13,7 +13,7 @@ The installation files and instructions for MyBotRun xbebenk
 * AutoIt (3.3.14.5)
 * RivaTuner
 
-# Installation QuickLinks
+## Installation QuickLinks
 [Initial Setup](InitialSetup.md)
 
 [BlueStacks](InitialSetup.md#bluestacks)  
@@ -21,3 +21,7 @@ The installation files and instructions for MyBotRun xbebenk
 [SourceTree](InitialSetup.md#sourcetree)  
 [AutoIt](InitialSetup.md#autoit)  
 [RivaTuner](InitialSetup.md#rivatuner)  
+
+
+## Update/Change MOD with Sourcetree
+[Sourcetree](Sourcetree.md)  
