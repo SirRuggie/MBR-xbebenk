@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>How to ; Setup Sourcetree to update to the latest commit of Xbebenkmod conveniently – Telegraph</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="How to ; Setup Sourcetree to update to the latest commit of Xbebenkmod conveniently">
+    <meta property="og:description" content="This guide will show you how to update the mod to the latest commit using Sourcetree as and when an update is pushed to git. Thanks to the man xbebenk himself for teaching this to me &lt;3
+
+Lets dive in...
+
+Step 1 - Download Sourcetree from here
+
+Step 2 - Sourcetree setup process">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="Telegraph">
+    <meta property="article:published_time" content="2022-05-08T12:24:34+0000">
+    <meta property="article:modified_time" content="2022-05-08T15:36:02+0000">
+    <meta property="article:author" content="Fake Taxi">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="How to ; Setup Sourcetree to update to the latest commit of Xbebenkmod conveniently">
+    <meta name="twitter:description" content="This guide will show you how to update the mod to the latest commit using Sourcetree as and when an update is pushed to git. Thanks to the man xbebenk himself for teaching this to me &lt;3
+
+Lets dive in...
+
+Step 1 - Download Sourcetree from here
+
+Step 2 - Sourcetree setup process">
+    <meta name="twitter:image" content="">
+    <link rel="canonical" href="https://telegra.ph/How-to--Setup-Sourcetree-to-update-Xbebenkmod-MBR-conveniently-05-08" />
+    <link rel="shortcut icon" href="/favicon.ico?1" type="image/x-icon">
+    <link rel="icon" type="image/png" href="/images/favicon.png?1" sizes="16x16">
+    <link rel="icon" type="image/png" href="/images/favicon_2x.png?1" sizes="32x32">
+    <link href="/css/quill.core.min.css" rel="stylesheet">
+    <link href="/css/core.min.css?46" rel="stylesheet">
+  </head>
+  <body>
+    <div class="tl_page_wrap">
+      <div class="tl_page">
+        <main class="tl_article">
+          <header class="tl_article_header" dir="auto">
+            <h1>How to ; Setup Sourcetree to update to the latest commit of Xbebenkmod conveniently</h1>
+            <address>
+              <a rel="author">Fake Taxi</a><!--
+           --><time datetime="2022-05-08T12:24:34+0000">May 08, 2022</time>
+            </address>
+          </header>
+          <article id="_tl_editor" class="tl_article_content"><h1>How to ; Setup Sourcetree to update to the latest commit of Xbebenkmod conveniently<br></h1><address>Fake Taxi<br></address><blockquote>All respect and credits to xbebenk &amp; Jason for their efforts and hard work put in towards maintaining and developing the coolest mod version of MBR &gt; <a href="https://mybot.run/forums/index.php?/topic/58541-xbebenkmod-v122-mbr-mybot-v797/&amp;" target="_blank">xbebenkmod</a>. </blockquote><p><strong><em>This guide will show you how to update the mod to the latest commit using </em></strong><a href="https://www.sourcetreeapp.com/" target="_blank"><strong><em>Sourcetree </em></strong></a><strong><em>as and when an update is pushed to git. Thanks to the man xbebenk himself for teaching this to me &lt;3</em></strong></p><p><br></p><p>Lets dive in...</p><p><br></p><h3 id="Step-1---Download-Sourcetree-from-here">Step 1 - Download Sourcetree from <a href="https://www.sourcetreeapp.com/" target="_blank">here</a></h3><p><br></p><h3 id="Step-2---Sourcetree-setup-process">Step 2 - Sourcetree setup process</h3><figure><img src="/file/c90d5f31a3b0093808f7f.png"><figcaption>&quot;skip&quot; this</figcaption></figure><p><br></p><figure><img src="/file/128f99489bc3c86dbcd20.png"><figcaption>Hit &quot;next&quot;</figcaption></figure><p><br></p><figure><img src="/file/eaa0bd55b56ed543c6a0c.png"><figcaption>Enter your email addy here and hit &quot;next&quot;</figcaption></figure><p><strong> </strong></p><figure><img src="/file/5e78d0aedd7c796a5fb57.png"><figcaption>Select &quot;No&quot;</figcaption></figure><p><br></p><p><strong>Once the setup is successful, you&#39;ll see a window like below; </strong></p><figure><img src="/file/6ad3e06fc8d0c2e8237dc.png"><figcaption></figcaption></figure><p><br></p><h3 id="Step-3---Link-/-add-xbebenkmod-repo-to-Sourcetree">Step 3 - Link / add xbebenkmod repo to Sourcetree </h3><p><br></p><figure><img src="/file/0be126767bfd5a2393338.png"><figcaption>Click on &quot;Clone&quot;</figcaption></figure><p><br></p><figure><img src="/file/bb45998688d5b22a55631.png"><figcaption>Source Path -  copy and paste the following link -<br class="inline">https://github.com/xbebenk/MBR_xbebenkMod<br class="inline"><br class="inline">Destination path - Where you intend to have your MBR folder<br class="inline">Name - choose any name you prefer.</figcaption></figure><p><br></p><p><br></p><figure><img src="/file/14ba681ec9b83863ff45c.png"><figcaption>Example - This will download xbebenkmod and save it in the given folder on my desktop. Lets go ahead and hit &quot;clone&quot;</figcaption></figure><p><br></p><p>And... We&#39;ve cloned a copy of the xbmod repo on our pc just like this;</p><figure><img src="/file/b7687c609b89d28c6fd4c.png"><figcaption>Once you hit clone, you will see a window like this. <br class="inline">(Right click on this image and open in new tab for full resolution)</figcaption></figure><p><br></p><p>And this is how the folder in our desktop would look like ; </p><p><br></p><figure><img src="/file/42463590b0806a9c2b5a4.png"><figcaption>Just like a freshly downloaded copy of Xbebenkmod.</figcaption></figure><p><br></p><p><br></p><p>Now in Sourcetree, The sidebar to your left indicates which branch or version of the mod you&#39;re currently using and also shows available branches you may switch to. </p><p> </p><figure><img src="/file/755515f091cdafa24d147.png"><figcaption>Example - The above image shows that I am currently running on the default - main branch of the mod (Highlighted in yellow)<br class="inline"><br class="inline">Highlighted in purple is the dev branch which is available remotely to download / checkout.</figcaption></figure><p><br></p><h3 id="Step-4---How-to-switch-between-&amp;quot;Main&amp;quot;-and-&amp;quot;Dev&amp;quot;-branches-on-the-go">Step 4 - How to switch between &quot;Main&quot; and &quot;Dev&quot; branches on the go</h3><p><br></p><p>Under the remotes section on the sidebar of Sourcetree, Right click on the dev branch and select &quot;Checkout origin/dev_1.2.3...&quot;</p><p><br></p><figure><img src="/file/6b3d0a382f06edfb641a7.png"><figcaption></figcaption></figure><p>Click on &quot;OK&quot;</p><figure><img src="/file/62f94fdb67ab2b189e1f7.png"><figcaption></figcaption></figure><p><br></p><p>And now, under branches you can see that we have both the dev &amp; main branches available and currently we&#39;ve chosen the dev branch as default. </p><p><em>(The bot folder in your pc automatically changes / updates files according to the branch you select. It is synced)</em> </p><figure><img src="/file/9551e02fabff398c6be9d.png"><figcaption></figcaption></figure><p><br></p><p>If you want to switch between branches, you may right click on the branch you want to switch to,  and select checkout. </p><figure><img src="/file/30018c122451ff0050118.png"><figcaption></figcaption></figure><p><br></p><h3 id="Step-5---How-to-update-bot-to-the-latest-/-current-version-as-and-when-a-commit-is-pushed-or-in-layman-terms---How-to-check-for-updates-and-update-to-the-latest-version-of-the-bot-/-branch.">Step 5 - How to update bot to the latest / current version as and when a commit is pushed or in layman terms - How to check for updates and update to the latest version of the bot  / branch.</h3><p><br></p><p>If you want to check if xbebenk / Jason have pushed any new updates to the branch you&#39;re currently in, you may click on the &quot;Fetch&quot; button highlighted below; </p><figure><img src="/file/cc0a4487b154531582ea5.png"><figcaption></figcaption></figure><p>If there are any updates to the existing code, it will show as follows; A list of uncommitted changes along with a &quot;pull&quot; button on top as highlighted. If you want to apply this update to your existing branch, Just click on &quot;Pull&quot;</p><p><em>This will update the files in your bot folder&#33;</em></p><p><br></p><figure><img src="/file/4a26cb0438d05bfd0494e.png"><figcaption></figcaption></figure><p>&quot;Fetch&quot; &amp; &quot;Pull&quot;, Simple as that&#33; You&#39;re on the latest commit&#33;</p><p><br></p><h3 id="Step-6---Copy-your-profiles-to-the-bot-folder-created-by-Sourcetree">Step 6 - Copy your profiles to the bot folder created by Sourcetree</h3><p><br></p><figure><img src="/file/e8c60c7a91cb781459ffc.png"><figcaption>Just like this&#33;</figcaption></figure><p><br></p><h3 id="We&amp;#39;re-all-set&amp;#33;-You-just-have-to-run-the-.au3-file-from-the-folder-we-just-created-/-set-up-your-bot-instances-using-Selectbot-or-any-way-you-prefer.">We&#39;re all set&#33; You just have to run the .au3 file from the folder we just created / set up your bot instances using Selectbot or any way you prefer.</h3><p><br></p><aside><br></aside><aside><strong>Last but not least, Just like Drop says, <br class="inline">&quot;Farm the hell out of em&#33;&quot;<br class="inline"></strong></aside><p><br></p><p><br></p></article>
+          <div id="_tl_link_tooltip" class="tl_link_tooltip"></div>
+          <div id="_tl_tooltip" class="tl_tooltip">
+            <div class="buttons">
+              <span class="button_hover"></span>
+              <span class="button_group"><!--
+             --><button id="_bold_button"></button><!--
+             --><button id="_italic_button"></button><!--
+             --><button id="_link_button"></button><!--
+           --></span><!--
+           --><span class="button_group"><!--
+             --><button id="_header_button"></button><!--
+             --><button id="_subheader_button"></button><!--
+             --><button id="_quote_button"></button><!--
+           --></span>
+            </div>
+            <div class="prompt">
+              <span class="close"></span>
+              <div class="prompt_input_wrap"><input type="url" class="prompt_input" /></div>
+            </div>
+          </div>
+          <div id="_tl_blocks" class="tl_blocks">
+            <div class="buttons">
+              <button id="_image_button"></button><!--
+           --><button id="_embed_button"></button>
+            </div>
+          </div>
+          <aside class="tl_article_buttons">
+            <div class="account account_top"></div>
+            <button id="_edit_button" class="button edit_button">Edit</button><!--
+         --><button id="_publish_button" class="button publish_button">Publish</button>
+            <div class="account account_bottom"></div>
+            <div id="_error_msg" class="error_msg"></div>
+          </aside>
+        </main>
+      </div>
+    </div>
+    <div id="_tl_alerts" class="tl_alerts"></div>
+    
+    <script>var T={"apiUrl":"https:\/\/edit.telegra.ph","datetime":1652012674,"pageId":"858c76005852a459e152b","editable":true};(function(){var b=document.querySelector('time');if(b&&T.datetime){var a=new Date(1E3*T.datetime),d='January February March April May June July August September October November December'.split(' ')[a.getMonth()],c=a.getDate();b.innerText=d+' '+(10>c?'0':'')+c+', '+a.getFullYear()}})();</script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.selection.min.js"></script>
+    <script src="/js/autosize.min.js"></script>
+    <script src="/js/load-image.all.min.js?1"></script>
+    <script src="/js/quill.min.js?9"></script>
+    <script src="/js/core.min.js?63"></script>
+    <script async src="https://t.me/_websync_?path=How-to--Setup-Sourcetree-to-update-Xbebenkmod-MBR-conveniently-05-08&hash=919f4380314a7c1bf9"></script>
+  </body>
+</html>
