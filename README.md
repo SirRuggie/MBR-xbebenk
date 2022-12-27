@@ -11,27 +11,42 @@ The installation files and instructions for MyBotRun xbebenk
 ## AutoIt Installation
 * Download the AutoIt Setup file
 * Double click on AutoIt-Setup.exe
-  * if a User Account Control window appears, select Yes
-* Click Next and **leave all defaults**  
-![Images](Images/AutoIt_01.png)
-* Click I Agree  
-![Images](Images/AutoIt_02.png)
-* Click Next  
-![Images](Images/AutoIt_03.png)
-* Click Next  
-![Images](Images/AutoIt_04.png)
-* Click Next  
-![Images](Images/AutoIt_05.png)
-* Click Install  
-![Images](Images/AutoIt_06.png)
-* Click Finish  
-![Images](Images/AutoIt_07.png)
+  * if a User Account Control window appears, select Yes    
 
-**After installation is complete**
-* Click on the Windows Start Menu and type "Path" and click on "Edit the system environment variables"  
-![Images](Images/AutoIt_08.png)
-* The System Properties menu will load, select Environment Variables button at the bottom of the screen menu  
-![Images](Images/AutoIt_09.png)
-* On the new menu se
+![Images](Images/AutoIt/AutoIt_01.png)
+* Click Next and **leave all defaults**  
+
+![Images](Images/AutoIt/AutoIt_02.png)
+* Click I Agree  
+
+![Images](Images/AutoIt/AutoIt_03.png)
+* Click Next  
+
+![Images](Images/AutoIt/AutoIt_04.png)
+* Click Next  
+
+![Images](Images/AutoIt/AutoIt_05.png)
+* Click Next  
+
+![Images](Images/AutoIt/AutoIt_06.png)
+* Click Install  
+
+![Images](Images/AutoIt/AutoIt_07.png)
+* Click Finish  
+
+**After installation is complete, add AutoIt to the system variable path**  
+
+![Images](Images/AutoIt/AutoIt_08.png)
+* Click on the Windows Start Menu and type "Path" and open "Edit the system environment variables"  
+
+![Images](Images/AutoIt/AutoIt_09.png)
+* The System Properties menu will load, select Environment Variables at the bottom of the screen menu  
+
+![Images](Images/AutoIt/AutoIt_10.png)
+* Select Path on **System Variables** and click Edit
+
+![Images](Images/AutoIt/AutoIt_11.png)
+* Click New and add the AutoIt folder there "C:\Program Files (x86)\AutoIt3"
+
 
 ## 
