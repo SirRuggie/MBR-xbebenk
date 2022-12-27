@@ -29,3 +29,10 @@ The installation files and instructions for MyBotRun xbebenk
 
 ## Using MyBotRun xbebenk
 [Usage](Usage.md)  
+
+
+## Single Session
+
+## Multi-Session
+
+## Switch Accounts
