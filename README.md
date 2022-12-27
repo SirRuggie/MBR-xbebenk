@@ -2,14 +2,19 @@
 The installation files and instructions for MyBotRun xbebenk 
 
 **Note:** *It is Recommended to run MyBotRun on a computer that you **DO NOT** use on a regular basis due to it running 24/7*
-and we can even [link](#head1234) to it so:
+
 ## Needed files included in Repo
 * AutoIt (3.3.14.5)
 * RivaTuner
 * BlueStacksInstaller (5.9.140.1014)
 * SourceTree
 
-## AutoIt Installation
+# Installation QuickLinks
+[AutoIt](#AutoIt)  
+[RivaTuner](#RivaTuner)
+
+
+## <a name="AutoIt"></a>AutoIt Installation
 * Download the AutoIt Setup file
 * Double click on AutoIt-Setup.exe
   * if a User Account Control window appears, select Yes    
@@ -51,7 +56,7 @@ and we can even [link](#head1234) to it so:
 
 *AutoIt Installation Complete*
 
-## RivaTuner Installation 
+## <a name="RivaTuner"></a>RivaTuner Installation 
 * Download the RivaTuner Setup file
 * Double Click on RTSSSetup732.exe
   * if a User Account Control window appears, select Yes      
