@@ -21,6 +21,11 @@ It is recommended that you follow the below step under Single Session if this is
 * As seen above, there was a profiles folder created, open it.  
 
 ![Images](Images/Usage/MyBotRun_07.png)  
+* Open MyVillage folder (The default folder created by MyBotRun)
+* 
+
+
+
 
 ## <a name="multi"></a>Multi-Session
 
