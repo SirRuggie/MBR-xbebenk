@@ -1,5 +1,3 @@
-##  [sub-section](InitialSetup.md#sub-section)
-
 # MBR-xbebenk
 The installation files and instructions for MyBotRun xbebenk 
 
@@ -12,6 +10,8 @@ The installation files and instructions for MyBotRun xbebenk
 * RivaTuner
 
 # Installation QuickLinks
+[sub-section](InitialSetup.md#sub-section)
+
 [BlueStacks](#bluestacks)  
 [Amazon Clash of Clans Install](#cocinstall)  
 [SourceTree](#sourcetree)  
