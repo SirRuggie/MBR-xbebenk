@@ -5,8 +5,11 @@ MyBotRun can be launched multiple different ways depending on how you'd like to 
 ## <a name="single"></a>Single Session
 ### Launching MyBotRun directly from folder
 * Open the folder that xbebenk was downloaded to via Sourcetree.
-* 
-![Images](Images/Usage/MyBotRun_01.png)
+
+
+![Images](Images/Usage/MyBotRun_01.png)  
+* Right-Click on MyBot.run.au3 and select "Run Script (x86)"
+  * if a User Account Control window appears, select Yes   
 
 ## <a name="multi"></a>Multi-Session
 
