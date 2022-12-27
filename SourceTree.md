@@ -25,3 +25,10 @@ If you want to switch between branches, you may right click on the branch you wa
 
 ![Images](Images/Sourcetree/Sourcetree_17.png)  
 If you want to check if xbebenk / Jason has pushed any new updates to the branch you're currently in, you may click on the "Fetch" button highlighted above. 
+
+![Images](Images/Sourcetree/Sourcetree_18.png)  
+If there are any updates to the existing code, it will show as follows; A list of uncommitted changes along with a "pull" button on top as highlighted. If you want to apply this update to your existing branch, Just click on "Pull"
+
+*This will update the files in your bot folder!*
+
+![Images](Images/Sourcetree/Sourcetree_19.png)  
