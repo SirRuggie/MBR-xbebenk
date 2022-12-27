@@ -33,11 +33,13 @@ It is recommended that you follow the below step under Single Session if this is
 * Right-Click on MyBot.run.au3 and select "Run Script (x86)"
   * if a User Account Control window appears, select Yes   
 
-* Once Loaded, open BlueStacks 5 Multi-Instance manager
+* Once Loaded, click Start Bot or if you used one of the configs in [Configs](./Configs), then it will start within 10 seconds. 
+* Wait for Clash to load and stop the bot. 
+* Click on the Clash account settings and connect your Supercell ID the same as you would do on any other device. 
 
-![Images](Images/BlueStacks/BlueStacks_18.png)  
-* Start the first BlueStacks Instance from the menu
-
+![Images](Images/Usage/MyBotRun_01.png)  
+* On the MyBotRun application, click on the Bot tab. 
+  * Select the Profiles sub-tab and click the blue down arrow to pull the CoC Shared Prefs (This is saving your BlueStacks Logged in clash session to MyBotRun config files)
 
 
 ## <a name="multi"></a>Multi-Session
