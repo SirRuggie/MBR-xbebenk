@@ -4,16 +4,55 @@ The installation files and instructions for MyBotRun xbebenk
 **Note:** *It is Recommended to run MyBotRun on a computer that you **DO NOT** use on a regular basis due to it running 24/7*
 
 ## Needed files included in Repo
-* AutoIt (3.3.14.5)
-* RivaTuner
 * BlueStacksInstaller (5.9.140.1014)
 * SourceTree
+* AutoIt (3.3.14.5)
+* RivaTuner
 
 # Installation QuickLinks
+[BlueStacks](#bluestacks)  
+[SourceTree](#sourcetree)  
 [AutoIt](#autoit)  
-[RivaTuner](#rivatuner)
+[RivaTuner](#rivatuner)  
 
-### <a name="autoit"></a>AutoIt Installation
+## <a name="bluestacks"></a>BlueStacks Installation
+* Download the BlueStacks Setup file
+* Double click on BlueStacksInstaller.exe
+  * if a User Account Control window appears, select Yes    
+
+![Images](Images/AutoIt/AutoIt_01.png)
+* Click Install Now and close BlueStacks out once it is open. 
+* Go to your desktop and double-click on "BlueStacks 5 Multi-Instance Manager"
+By default BlueStacks will name each instance "BlueStacks App Player" with a number behind it. 
+You can rename this to anything you want, but take note that you MUST remember the following naming later on once we start the bot. 
+* BlueStacks Data Naming
+  * Nougat32
+  * Nougat32_1
+  * Nougat32_2
+  * etc
+
+* Click on the gear to the right of the BlueStacks instance
+
+* On Performance change the following Settings:
+  * CPU allocation: Low (1Core)
+  * Memory allocation: low (1GB)
+  * Frame rate: 20
+* Click Save Changes and click on the gear again.
+
+* Select Display on the left tab menu and change the following settings:
+  * Display Resolution: Custom 
+    * Click Add resolution
+    * Width = 860
+    * Height = 676
+    * Click save on the right of the resolution menu
+    * Select the 860 x 676 radio button
+  * Pixel density: 160 DPI (Low)
+
+
+
+## <a name="sourcetree"></a>SourceTree Installation
+
+## <a name="autoit"></a>AutoIt Installation
 * Download the AutoIt Setup file
 * Double click on AutoIt-Setup.exe
   * if a User Account Control window appears, select Yes    
@@ -55,7 +94,7 @@ The installation files and instructions for MyBotRun xbebenk
 
 *AutoIt Installation Complete*
 
-### <a name="rivatuner"></a>RivaTuner Installation 
+## <a name="rivatuner"></a>RivaTuner Installation 
 * Download the RivaTuner Setup file
 * Double Click on RTSSSetup732.exe
   * if a User Account Control window appears, select Yes      
