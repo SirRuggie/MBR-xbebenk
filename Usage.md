@@ -53,7 +53,7 @@ It is recommended that you follow the below step under Single Session if this is
 
 **NOTE:** *The Below methods can be created within the MyBotRun app as well, but I find this method to be faster.*  
 *I can add a guide on how to do via the app as well, if someone wants it*
-
+![Images](Images/Usage/MyBotRun_08.png)  
 * Open the xbebenk root folder that was selected for the Sourcetree download, open the Profiles folder and copy the MyVillage folder. 
   * Personally I change MyVillage to "Default" and create copies from it so that I always have a baseline to copy if needed later. 
 * Paste the MyVillage folder into the Profiles folder for the amount of accounts that you would like to create. 
@@ -68,6 +68,15 @@ It is recommended that you follow the below step under Single Session if this is
 ![Images](Images/Usage/MyBotRun_01.png)  
 * Right-Click on MyBot.run.au3 and select "Run Script (x86)"
   * if a User Account Control window appears, select Yes   
+* Let is start, and open BlueStacks and CoC, Stop the bot.
+* Click on the Bot tab and click on the Switch Profiles dropdown. 
+  * The profiles created above will now be shown in the dropdown list.
+* If not selected, Select the first account from the drop down (dono1, coc1, etc.) and wait for it to load.
+  * A good way to know the account was loaded is to watch the Status at the bottom of MybotRun "*Status: Profile dono1 loaded from...*"
+* On BlueStacks, go to the first logged in account that you would like to be associated with this profile and wait for it to load. 
+* Select the blue down arrow to sync the account with the profile
+* Repeat this process for **EACH** account. With each step, you must wait for the new profile to load as well as the account you want associated with that profile. 
+  * Failure to do this will result in a failure of the bot properly switching accounts. 
 
 ## <a name="multi"></a>Multi-Instance
 
