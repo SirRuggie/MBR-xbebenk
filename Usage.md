@@ -60,6 +60,10 @@ It is recommended that you follow the below step under Single Session if this is
   * If you want to create 15 accounts, then create 15 folders
     * In my example, I named them dono# because these particular accounts will be donation accounts. 
   * Rename each folder after each one was created to the naming convention you choose (dono1, dono2, dono3, etc.)
+* MyBotRun reads *SwitchAccount.01.ini* to know which accounts are to be loaded and switched to.
+  * By default the SwitchAccount.01.ini file does not exist in the Profiles folder unless selected within the app. 
+  * A copy of it can be found in the [Configs](./Configs) folder
+    * Configured for 15 profiles named dono1, dono2, etc.
 
 
 
