@@ -31,5 +31,5 @@ The installation files and instructions for MyBotRun xbebenk
 [Usage](Usage.md)  
 
 [Single Session](Usage.md#single)  
-[Multi-Session](Usage.md#multi)  
+[Multi-Instance](Usage.md#multi)  
 [Switch Accounts](Usage.md#switch)  
