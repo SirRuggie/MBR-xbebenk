@@ -49,7 +49,7 @@ It is recommended that you follow the below step under Single Session if this is
 ## <a name="switch"></a>Switch Accounts
 * On the BlueStacks Instance where you configured the first account from above, add the number of Clash accounts that you'd like.
  * 16 Clash accounts can be loaded on each BlueStacks instance. 
- * For multiple-instances of BlueStacks, see 
+ * For multiple-instances of BlueStacks, see [Multi-Instance](Usage.md#multi)  
 
 
 ## <a name="multi"></a>Multi-Instance
