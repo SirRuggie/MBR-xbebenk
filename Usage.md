@@ -51,7 +51,7 @@ It is recommended that you follow the below step under Single Session if this is
  * 16 Clash accounts can be loaded on each BlueStacks instance. 
  * For multiple-instances of BlueStacks, see [Multi-Instance](Usage.md#multi)  
 
-**NOTE:** *The Below methods can be created within the MyBotRun app as well, but I find this method to be faster*
+**NOTE:** *The Below methods can be created within the MyBotRun app as well, but I find this method to be faster.*  
 *I can add a guide on how to do via the app as well, if someone wants it*
 
 * Open the xbebenk root folder that was selected for the Sourcetree download, open the Profiles folder and copy the MyVillage folder. 
