@@ -1,6 +1,6 @@
 # MBR xbebenk MOD Companion guide
 The installation files and instructions for MyBotRun xbebenk MOD   
-[xbebenkMOD](https://github.com/xbebenk/MBR_xbebenkMod)  
+[MBR_xbebenkMod](https://github.com/xbebenk/MBR_xbebenkMod)  
 
 
 **Note: Important information** 
