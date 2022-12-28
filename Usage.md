@@ -65,7 +65,9 @@ It is recommended that you follow the below step under Single Session if this is
   * A copy of it can be found in the [Configs](./Configs) folder
     * Configured for 15 profiles named dono1, dono2, etc.
 
-
+![Images](Images/Usage/MyBotRun_01.png)  
+* Right-Click on MyBot.run.au3 and select "Run Script (x86)"
+  * if a User Account Control window appears, select Yes   
 
 ## <a name="multi"></a>Multi-Instance
 
