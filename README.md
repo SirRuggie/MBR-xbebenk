@@ -17,7 +17,7 @@ Direct Link to bot repo: [MBR_xbebenkMod](https://github.com/xbebenk/MBR_xbebenk
 
 ## Installation QuickLinks
 [Initial Setup](InitialSetup.md)
-
+## 
 [BlueStacks](InitialSetup.md#bluestacks)  
 [Amazon Clash of Clans Install](InitialSetup.md#cocinstall)  
 [SourceTree](InitialSetup.md#sourcetree)  
@@ -31,7 +31,7 @@ Direct Link to bot repo: [MBR_xbebenkMod](https://github.com/xbebenk/MBR_xbebenk
 
 ## Using MyBotRun xbebenk
 [Usage](Usage.md)  
-
+## 
 [Single Session](Usage.md#single)  
 [Multi-Instance](Usage.md#multi)  
 [Switch Accounts](Usage.md#switch)  
