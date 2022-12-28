@@ -35,6 +35,7 @@ It is recommended that you follow the below step under Single Session if this is
 
 * Once Loaded, click Start Bot or if you used one of the configs in [Configs](./Configs), then it will start within 10 seconds. 
 * Wait for Clash to load and stop the bot. 
+ * **NOTE: If Clash does not load or loads a black screen, ensure that you have added the Amazon Config file settings**
 * Click on the Clash account settings and connect your Supercell ID the same as you would do on any other device. 
 
 ![Images](Images/Usage/MyBotRun_01.png)  
@@ -45,12 +46,13 @@ It is recommended that you follow the below step under Single Session if this is
 * Click Start Bot and watch it work
 
 
-## <a name="multi"></a>Multi-Session
-
 ## <a name="switch"></a>Switch Accounts
+* On the BlueStacks Instance where you configured the first account from above, add the number of Clash accounts that you'd like.
+ * 16 Clash accounts can be loaded on each BlueStacks instance. 
+ * For multiple-instances of BlueStacks, see 
 
 
-
+## <a name="multi"></a>Multi-Instance
 
 
 
