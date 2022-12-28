@@ -52,14 +52,18 @@ It is recommended that you follow the below step under Single Session if this is
  * For multiple-instances of BlueStacks, see [Multi-Instance](Usage.md#multi)  
 
 **NOTE:** *The Below methods can be created within the MyBotRun app as well, but I find this method to be faster.*  
-*I can add a guide on how to do via the app as well, if someone wants it*
-![Images](Images/Usage/MyBotRun_08.png)  
+*I can add a guide on how to do via the app as well, if someone wants it*  
+
+
 * Open the xbebenk root folder that was selected for the Sourcetree download, open the Profiles folder and copy the MyVillage folder. 
-  * Personally I change MyVillage to "Default" and create copies from it so that I always have a baseline to copy if needed later. 
+  * Personally I change MyVillage to "Default" and create copies from it so that I always have a baseline to copy if needed later.   
+![Images](Images/Usage/MyBotRun_09.png)  
 * Paste the MyVillage folder into the Profiles folder for the amount of accounts that you would like to create. 
   * If you want to create 15 accounts, then create 15 folders
     * In my example, I named them dono# because these particular accounts will be donation accounts. 
-  * Rename each folder after each one was created to the naming convention you choose (dono1, dono2, dono3, etc.)
+  * Rename each folder after each one was created to the naming convention you choose (dono1, dono2, dono3, etc.)   
+![Images](Images/Usage/MyBotRun_10.png)  
+
 * MyBotRun reads *SwitchAccount.01.ini* to know which accounts are to be loaded and switched to.
   * By default the SwitchAccount.01.ini file does not exist in the Profiles folder unless selected within the app. 
   * A copy of it can be found in the [Configs](./Configs) folder
