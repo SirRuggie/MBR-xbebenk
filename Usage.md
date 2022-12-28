@@ -91,14 +91,12 @@ It is recommended that you follow the below step under Single Session if this is
 
 ![Images](Images/Usage/MyBotRun_14.png)  
 * The Status at the bottom of MyBotRun will say "*Status: Pulled shared_prefs of profile...*"
-
-
-* Repeat this process for **EACH** account. With each step, you must wait for the new profile to load as well as the account you want associated with that profile. 
+* **Repeat this process for EACH account.** With each step, you must wait for the new profile to load as well as the account you want associated with that profile. 
   * Failure to do this will result in a failure of the bot properly switching accounts. 
 
 ## <a name="multi"></a>Multi-Instance
 
-
+**UNDER CONSTRUCTION =]**
 
 
 
