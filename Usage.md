@@ -3,6 +3,12 @@ MyBotRun can be launched multiple different ways depending on how you'd like to 
 **Note:** If you have not launched MyBotRun before, there will not be a profiles folder in the directory where you pulled from Sourcetree. 
 It is recommended that you follow the below step under Single Session if this is the first time.
 
+## Quick Links
+[Single-Session](Usage.md#single)  
+[Switch Accounts](Usage.md#switch)  
+[Multi-Instance](Usage.md#multi)  
+
+
 ## <a name="single"></a>Single Session
 ### First Time Use Setup
 * Open the folder that xbebenk was downloaded to via Sourcetree.
@@ -99,24 +105,5 @@ It is recommended that you follow the below step under Single Session if this is
 **UNDER CONSTRUCTION =]**
 
 
-
-
-
-
-
-
-
-2. Open Command prompt
-
-
-Type cmd on start menu, and open command prompt
-
-
-
-go to your bot folder and type, autoit3 mybot.run.au3 yourprofilename
-
-i use -a for autostart
-
-and -ha for hide android
 
  
