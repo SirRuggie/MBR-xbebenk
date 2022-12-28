@@ -76,12 +76,23 @@ It is recommended that you follow the below step under Single Session if this is
 * Right-Click on MyBot.run.au3 and select "Run Script (x86)"
   * if a User Account Control window appears, select Yes   
 * Let is start, and open BlueStacks and CoC, Stop the bot.
+
+![Images](Images/Usage/MyBotRun_11.png)  
 * Click on the Bot tab and click on the Switch Profiles dropdown. 
   * The profiles created above will now be shown in the dropdown list.
+
+![Images](Images/Usage/MyBotRun_12.png)  
 * If not selected, Select the first account from the drop down (dono1, coc1, etc.) and wait for it to load.
   * A good way to know the account was loaded is to watch the Status at the bottom of MybotRun "*Status: Profile dono1 loaded from...*"
 * On BlueStacks, go to the first logged in account that you would like to be associated with this profile and wait for it to load. 
+
+![Images](Images/Usage/MyBotRun_13.png)  
 * Select the blue down arrow to sync the account with the profile
+
+![Images](Images/Usage/MyBotRun_14.png)  
+* The Status at the bottom of MyBotRun will say "*Status: Pulled shared_prefs of profile...*"
+
+
 * Repeat this process for **EACH** account. With each step, you must wait for the new profile to load as well as the account you want associated with that profile. 
   * Failure to do this will result in a failure of the bot properly switching accounts. 
 
