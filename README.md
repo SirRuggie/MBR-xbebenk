@@ -1,5 +1,7 @@
-# MBR-xbebenk
-The installation files and instructions for MyBotRun xbebenk 
+# MBR xbebenk MOD Companion guide
+The installation files and instructions for MyBotRun xbebenk MOD
+[xbebenkMOD](https://github.com/xbebenk/MBR_xbebenkMod)  
+
 
 **Note: Important information** 
 * *It is Recommended to run MyBotRun on a computer that you **DO NOT** use on a regular basis due to it running 24/7*
