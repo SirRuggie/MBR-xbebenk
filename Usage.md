@@ -3,7 +3,7 @@ MyBotRun can be launched multiple different ways depending on how you'd like to 
 **Note:** If you have not launched MyBotRun before, there will not be a profiles folder in the directory where you pulled from Sourcetree. 
 It is recommended that you follow the below step under Single Session if this is the first time.
 
-## Quick Links
+### Quick Links
 [Single-Session](Usage.md#single)  
 [Switch Accounts](Usage.md#switch)  
 [Multi-Instance](Usage.md#multi)  
