@@ -235,4 +235,6 @@ Folder structure that we cloned
 * Minimize RivaTuner **DO NOT Close**
 
 
-### Installation Complete
+## Installation Complete
+If all the previous installation steps have been completed, to to the Usage page for further instructructions. 
+[MyBotRun Usage](Usage.md)  
