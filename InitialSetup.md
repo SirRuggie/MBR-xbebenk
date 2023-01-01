@@ -129,7 +129,7 @@ You can rename this to anything you want, but take note that you MUST remember t
 ![Images](Images/Sourcetree/Sourcetree_09.png)  
 **Source Path:** https://github.com/xbebenk/MBR_xbebenkMOD  
 **Destination Path:** Where you intend to have your MBR folder  
-In my instance, I created a folder on the desktop called xbeb, so the Destination path for me was C:\users\user\Desktop\xbeb
+In my instance, I created a folder on the desktop called xbeb, so the Destination path for me was C:\users\user\Desktop\xbeb    
 **Name:** Choose any name you prefer  
 
 
