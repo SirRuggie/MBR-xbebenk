@@ -1,5 +1,12 @@
 # Initial MyBotRun xbebenk MOD Setup
 
+## Installation QuickLinks
+[BlueStacks](InitialSetup.md#bluestacks)  
+[Amazon Clash of Clans Install](InitialSetup.md#cocinstall)  
+[SourceTree](InitialSetup.md#sourcetree)  
+[AutoIt](InitialSetup.md#autoit)  
+[RivaTuner](InitialSetup.md#rivatuner)  
+
 ## <a name="bluestacks"></a>BlueStacks Installation
 * Download the BlueStacks Setup file
 * Double click on BlueStacksInstaller.exe
