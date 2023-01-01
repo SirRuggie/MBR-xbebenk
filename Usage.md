@@ -30,6 +30,7 @@ It is recommended that you follow the below step under Single Session if this is
 * **Important** The config file MUST be updated in order for Clash of Clans to launch.
 * Use one of the configs from [Configs](./Configs) to update with the appropriate Amazon configs.
   * **NOTE:** The included configs in the folders are from my personal preference for the Town Hall levels. These configs can be updated within MyBotRun to meet your personal preferences.
+  * *IF you downloaded the source files and are using NEW Town Halls, copy the Config.ini and Building.ini from the "Below TH6" folder and overwrite the ones in the MyVillage folder*
 
 **Relaunch MyBotRun**  
 
