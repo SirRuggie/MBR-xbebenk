@@ -227,3 +227,5 @@ Folder structure that we cloned
 
 * Minimize RivaTuner **DO NOT Close**
 
+
+### Installation Complete
