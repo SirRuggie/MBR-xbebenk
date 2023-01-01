@@ -236,5 +236,5 @@ Folder structure that we cloned
 
 
 ## Installation Complete
-If all the previous installation steps have been completed, to to the Usage page for further instructructions.     
+If all the previous installation steps have been completed, go to the Usage page for further instructructions.     
 [MyBotRun Usage](Usage.md)  
