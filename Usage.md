@@ -8,6 +8,10 @@ It is recommended that you follow the below step under Single Session if this is
 [Switch Accounts](Usage.md#switch)  
 [Multi-Instance](Usage.md#multi)  
 
+## <a name="acc"></a>Clash Account Preparation
+In order for a Town hall 3 account to properly run with MyBotRun, you **MUST** upgrade it until you have 70 capacity *Army Camps*
+**NOTE:** The game gives you enough gems to gem everything in order to get things prepared for MyBotRun, please ensure this is done.
+
 
 ## <a name="single"></a>Single Session
 ### First Time Use Setup
