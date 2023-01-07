@@ -89,7 +89,7 @@ In order for a Town hall 3 account to properly run with MyBotRun, you **MUST** u
 * Let is start, and open BlueStacks and CoC, Stop the bot.
 
 ![Images](Images/Usage/MyBotRun_11.png)  
-* Click on the Bot tab and click on the Switch Profiles dropdown. 
+* Click on the Bot tab, click on the Profiles sub-tab and click on the Switch Profiles dropdown. 
   * The profiles created above will now be shown in the dropdown list.
 
 ![Images](Images/Usage/MyBotRun_12.png)  
