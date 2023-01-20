@@ -1,24 +1,23 @@
-# MBR xbebenk MOD Companion guide
-The installation files and instructions for MyBotRun xbebenk MOD   
-Direct Link to bot repo: [MBR_xbebenkMod](https://github.com/xbebenk/MBR_xbebenkMod)  
+# MyBotRun xbebenk MOD Companion Guide
+This guide provides the installation files and instructions for the MyBotRun xbebenk MOD. 
+You can find the direct link to the bot repository: [MBR_xbebenkMod](https://github.com/xbebenk/MBR_xbebenkMod)  
 
 
-**Note: Important information** 
-* *It is Recommended to run MyBotRun on a computer that you **DO NOT** use on a regular basis due to it running 24/7*
-* Currently MyBotRun is **NOT** compatible with Windows 11 
-* Do not update the files below, not all versions are compatible and the included files are known to work
+**Please Note:** 
+* *It is recommended to run MyBotRun on a computer that is not used regularly, as the bot runs 24/7.*
+* MyBotRun is currently **not** compatible with Windows 11.
+* Do not update the files provided in this repository, as they are known to work and not all versions are compatible.
 
 
-## Needed files included in Repo
+## Included Files in the Repository
 * BlueStacksInstaller (5.9.140.1014)
 * SourceTree (3.4.10)
 * AutoIt (3.3.14.5)
 * RivaTuner
 
-## Installation QuickLinks
-[Initial Setup](InitialSetup.md)
-## 
-[BlueStacks](InitialSetup.md#bluestacks)  
+## Quicklinks for Installation
+* [Initial Setup](InitialSetup.md) 
+*  [BlueStacks](InitialSetup.md#bluestacks)  
 [Amazon Clash of Clans Install](InitialSetup.md#cocinstall)  
 [SourceTree](InitialSetup.md#sourcetree)  
 [AutoIt](InitialSetup.md#autoit)  
