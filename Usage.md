@@ -1,24 +1,24 @@
-# The Usage guide to MyBotRun xbebenk
-MyBotRun can be launched multiple different ways depending on how you'd like to use it and how many accounts you have connected.   
-**Note:** If you have not launched MyBotRun before, there will not be a profiles folder in the directory where you pulled from Sourcetree. 
-It is recommended that you follow the below step under Single Session if this is the first time.
+# Using MyBotRun xbebenk
+There are different ways to launch MyBotRun depending on your preferences and the number of accounts you have connected.   
+
+**Note:** If you haven't launched MyBotRun before, there will not be a "profiles" folder in the directory where you pulled the files from Sourcetree. It is recommended that you follow the instructions for "Single Session" if this is your first time using the bot.
 
 ### Quick Links
 [Single-Session](Usage.md#single)  
 [Switch Accounts](Usage.md#switch)  
 [Multi-Instance](Usage.md#multi)  
 
-## <a name="acc"></a>Clash Account Preparation
-In order for a Town hall 3 account to properly run with MyBotRun, you **MUST** upgrade it until you have 70 capacity *Army Camps*, which would be two army camps at level 3.
-**NOTE:** The game gives you enough gems to gem everything in order to get things prepared for MyBotRun, please ensure this is done.
+## <a name="acc"></a>Preparing Your Clash of Clans Account
+In order for MyBotRun to work properly with a Town Hall 3 account, it must have at least 70 capacity *Army Camps*. This can be achieved by upgrading two Army Camps to level 3.
+**NOTE:** The game provides enough gems to upgrade everything needed to prepare your account for MyBotRun, make sure to do so before running the bot.
 
 
 ## <a name="single"></a>Single Session
 ### First Time Use Setup
-* Open the folder that xbebenk was downloaded to via Sourcetree.
+* Open the folder where you downloaded MyBotRun from Github via Sourcetree.
 
 ![Images](Images/Usage/MyBotRun_01.png)  
-* Right-Click on MyBot.run.au3 and select "Run Script (x86)"
+* Right-click on the file "MyBot.run.au3" and select "Run Script (x86)"
   * if a User Account Control window appears, select Yes   
 
 ![Images](Images/Usage/MyBotRun_04.png)  
@@ -27,32 +27,32 @@ In order for a Town hall 3 account to properly run with MyBotRun, you **MUST** u
   * Close out MyBotRun and open the source folder that Sourcetree downloaded to.
 
 ![Images](Images/Usage/MyBotRun_06.png)  
-* As seen above, there was a profiles folder created, open it.  
+* Open the source folder where you downloaded MyBotRun from Github and find the "profiles" folder.
 
 ![Images](Images/Usage/MyBotRun_07.png)  
-* Open MyVillage folder (The default folder created by MyBotRun)
+* Open the "MyVillage" folder within the "profiles" folder.
 * **Important** The config file MUST be updated in order for Clash of Clans to launch.
-* Use one of the configs from [Configs](./Configs) to update with the appropriate Amazon configs.
-  * **NOTE:** The included configs in the folders are from my personal preference for the Town Hall levels. These configs can be updated within MyBotRun to meet your personal preferences.
-  * *IF you downloaded the source files and are using NEW Town Halls, copy the Config.ini and Building.ini from the "Below TH6" folder and overwrite the ones in the MyVillage folder*
+* You can find Amazon configs to use in the [Configs](./Configs) folder.
+  * **NOTE:** The configs included in the folders are based on personal preferences for Town Hall levels. You can update the configs within MyBotRun to meet your own preferences. 
+  * *If you are using new Town Halls, copy the config.ini and building.ini from the "Below TH6" folder and overwrite the ones in the MyVillage folder.*
 
 **Relaunch MyBotRun**  
 
-* Open the folder that xbebenk was downloaded to via Sourcetree.
+* Open the folder where you downloaded xbebenk via Sourcetree.
 
 ![Images](Images/Usage/MyBotRun_01.png)  
-* Right-Click on MyBot.run.au3 and select "Run Script (x86)"
+* Right-click on MyBot.run.au3 and select "Run Script (x86)"
   * if a User Account Control window appears, select Yes   
 
-* Once Loaded, click Start Bot or if you used one of the configs in [Configs](./Configs), then it will start within 10 seconds. 
+* Once MyBotRun is loaded, click Start Bot or if you used one of the configs in [Configs](./Configs), the bot will start automatically within 10 seconds.
 * Wait for Clash to load and stop the bot. 
  * **NOTE: If Clash does not load or loads a black screen, ensure that you have added the Amazon Config file settings**
-* Click on the Clash account settings and connect your Supercell ID the same as you would do on any other device. 
+* Click on the Clash account settings and connect your Supercell ID the same as you would do on any other device.
 
 ![Images](Images/Usage/MyBotRun_01.png)  
 * On the MyBotRun application, click on the Bot tab. 
-  * Select the Profiles sub-tab and click the blue down arrow to pull the CoC Shared Prefs (
-    * Clicking the blue down arrow saves your current BlueStacks Logged in clash session to the current MyBotRun Profile (MyVillage folder)
+  * Select the Profiles sub-tab and click the blue down arrow to pull the CoC Shared Prefs
+    * Clicking the blue down arrow saves your current BlueStacks Logged in Clash of Clans session to the current MyBotRun Profile (MyVillage folder).
 
 * Click Start Bot and watch it work
 
