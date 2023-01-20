@@ -25,12 +25,11 @@ You can find the direct link to the bot repository: [MBR_xbebenkMod](https://git
 
 
 ## Update/Change MOD with Sourcetree
-[Sourcetree](Sourcetree.md)  
+* [Sourcetree](Sourcetree.md)  
 
 
 ## Using MyBotRun xbebenk
-[Usage](Usage.md)  
-## 
-[Single Session](Usage.md#single)  
-[Multi-Instance](Usage.md#multi)  
-[Switch Accounts](Usage.md#switch)  
+* [Usage](Usage.md)  
+  * [Single Session](Usage.md#single)  
+  * [Multi-Instance](Usage.md#multi)  
+  * [Switch Accounts](Usage.md#switch)  
