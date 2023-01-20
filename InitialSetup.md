@@ -1,11 +1,11 @@
 # Initial MyBotRun xbebenk MOD Setup
 
 ## Installation QuickLinks
-[BlueStacks](InitialSetup.md#bluestacks)  
-[Amazon Clash of Clans Install](InitialSetup.md#cocinstall)  
-[SourceTree](InitialSetup.md#sourcetree)  
-[AutoIt](InitialSetup.md#autoit)  
-[RivaTuner](InitialSetup.md#rivatuner)  
+[Step 1: BlueStacks](InitialSetup.md#bluestacks)  
+[Step 2: Amazon Clash of Clans Install](InitialSetup.md#cocinstall)  
+[Step 3: SourceTree](InitialSetup.md#sourcetree)  
+[Step 4: AutoIt](InitialSetup.md#autoit)  
+[Step 5: RivaTuner](InitialSetup.md#rivatuner)  
 
 ## <a name="bluestacks"></a>BlueStacks Installation
 * Download the BlueStacks Setup file
@@ -13,29 +13,28 @@
   * if a User Account Control window appears, select Yes    
 
 ![Images](Images/BlueStacks/BlueStacks_01.png)
-* Click Install now and close BlueStacks session once installation is complete. 
+* Click the "Install Now" button and close the BlueStacks application once the installation is complete. 
 
-* Go to your desktop and double-click on "BlueStacks 5 Multi-Instance Manager"
-By default BlueStacks will name each instance "BlueStacks App Player" with a number behind it. 
-You can rename this to anything you want, but take note that you MUST remember the following naming later on once we start the bot. 
-* BlueStacks Data Naming
+* Open the "BlueStacks 5 Multi-Instance Manager" on your desktop.
+By default, each instance will be named "BlueStacks App Player" followed by a number, but you can rename them to something more memorable. Keep in mind, you will need to remember these names later on when you begin using the bot. 
+* BlueStacks naming conventions
   * Nougat32
   * Nougat32_1
   * Nougat32_2
   * etc
 
 ![Images](Images/BlueStacks/BlueStacks_02.png)
-* Click on the gear to the right of the BlueStacks instance
+* Open the BlueStacks 5 Multi-Instance Manager, and click on the gear icon next to the BlueStacks instance you wish to configure. 
 
 ![Images](Images/BlueStacks/BlueStacks_03.png)
-* On Performance change the following Settings:
+* Under the Performance tab, adjust the following settings:
   * CPU allocation: Low (1Core)
   * Memory allocation: low (1GB)
   * Frame rate: 20
-* Click Save Changes and Click the Gear again to open the settings menu
+* Click "Save Changes" and then click on the gear icon again to re-open the settings menu.
 
 ![Images](Images/BlueStacks/BlueStacks_04.png)
-* Select Display on the left tab menu and change the following settings:
+* Select "Display" from the left tab menu and change the following settings:
   * Display Resolution: Custom 
     * Click Add resolution
     * Width = 860
@@ -43,53 +42,53 @@ You can rename this to anything you want, but take note that you MUST remember t
     * Click save on the right of the resolution menu
     * Select the 860 x 676 radio button
   * Pixel density: 160 DPI (Low)
-  * Click Save Changes and Click the Gear again to open the settings menu
+  * Click "Save Changes" and then click on the gear icon again to re-open the settings menu.
 
 ![Images](Images/BlueStacks/BlueStacks_05.png)
-* Select Graphics on the left tab menu and change the following settings:
+* Select "Graphics" from the left tab menu and change the following settings:
   * Graphics engine mode: Compatibility
-* Click Save Changes
+* Click "Save Changes".
 
-### <a name="cocinstall"></a>Clash of Clans install on BlueStacks Instance  
-* From the BlueStacks multi-instance manager, click start on the first BlueStacks instance
+### <a name="cocinstall"></a>Install the Amazon Appstore and Clash of Clans on the BlueStacks Instance by following these steps:
+* From the BlueStacks 5 Multi-Instance Manager, start the first BlueStacks instance.
 
 ![Images](Images/BlueStacks/BlueStacks_06.png)
-* Once Loaded click on the "System apps" folder and open Chrome
-* Go to Amazon.com and search for Amazon Appstore
+* Once Loaded, click on the "System apps" folder and open Chrome.
+* Go to Amazon.com and search for "Amazon Appstore".
 
 ![Images](Images/BlueStacks/BlueStacks_07.png)
-* Click Download and Install Amazon Appstore
+* Download and Install the Amazon Appstore
 
 ![Images](Images/BlueStacks/BlueStacks_08.png)
-* Click Get Amazon AppStore
+* Click Get Amazon AppStore.
 
 ![Images](Images/BlueStacks/BlueStacks_09.png)
-* Click Ok on the security pop up at the bottom of the screen
+* Click Ok on the security pop up at the bottom of the screen.
 
 ![Images](Images/BlueStacks/BlueStacks_10.png)
-* Click Open on the pop up at the bottom of the screen
+* Click Open on the pop up at the bottom of the screen.
 
 ![Images](Images/BlueStacks/BlueStacks_11.png)
-* Click Install
+* Click Install.
 
 ![Images](Images/BlueStacks/BlueStacks_12.png)
-* Click Open
+* Click Open.
 
 ![Images](Images/BlueStacks/BlueStacks_13.png)
-* Click on Sign In or Create a new Amazon Account
+* Click Sign In or Create a new Amazon Account.
 
 ![Images](Images/BlueStacks/BlueStacks_14.png)
-* Once Signed in, Search for Clash of Clans and Install
+* Once Signed in, Search for Clash of Clans and Install it.
 
 ![Images](Images/BlueStacks/BlueStacks_15.png)
-* Click Install on the pop up
-* Close out of the BlueStacks Session when the Clash installation is complete and open the multi-instance manager.
+* Click Install on the pop up.
+* Close the BlueStacks session when the installation is complete and open the Multi-Instance Manager.
 
 ![Images](Images/BlueStacks/BlueStacks_16.png)
-* Click on the Clone Instance button
+* Click the "Clone Instance" button to create a copy of the first BlueStacks instance
 
 ![Images](Images/BlueStacks/BlueStacks_17.png)
-* Leave the Clone Instance menu settings as default. This will take the settings that was set earlier in the BlueStacks installation and duplicate it to the new instances. 
+* Repeat these steps to create additional BlueStacks instances and make sure to name them accordingly (e.g. "Nougat32", "Nougat32_1", "Nougat32_2", etc.) for use with the bot.
   * Instance count can be changed to 2 or more (*Not all machines can handle more than 2. This will be based on your machines performance*)
 
 *BlueStacks Installation and configuration complete*
@@ -123,36 +122,34 @@ You can rename this to anything you want, but take note that you MUST remember t
 
 
 ![Images](Images/Sourcetree/Sourcetree_08.png)
-* Click on "Clone" from the top menu
+* Click "Clone" from the top menu in Sourcetree.
 
 
 ![Images](Images/Sourcetree/Sourcetree_09.png)  
 **Source Path:** https://github.com/xbebenk/MBR_xbebenkMOD  
-**Destination Path:** Where you intend to have your MBR folder  
+**Destination Path:** Enter the directory where you want to save the MBR folder.  
 *In my instance, I created a folder on the desktop called xbeb, so the Destination path for me was C:\Users\User\Desktop\xbeb*    
-**Name:** Choose any name you prefer  
+**Name:** Choose a name for your folder.
 
 
 ![Images](Images/Sourcetree/Sourcetree_10.png)
-* Click "Clone" 
-  * This will download xbebenkmod and save it in the given folder on my desktop.
+* Click "Clone" to download xbebenkmod and save it in the given folder.
 
 
 ![Images](Images/Sourcetree/Sourcetree_11.png)  
-Successful cloned xbebenkMOD on our desktop
+Successfully cloned xbebenkMOD on your desktop
 
 ![Images](Images/Sourcetree/Sourcetree_12.png)  
-Folder structure that we cloned
+Verify the folder structure that was cloned
 
 *Sourcetree Installation Complete*
 
 ## <a name="autoit"></a>AutoIt Installation
-* Download the AutoIt Setup file
-* Double click on AutoIt-Setup.exe
+* Download the AutoIt setup file and double click on AutoIt-Setup.exe
   * if a User Account Control window appears, select Yes    
 
 ![Images](Images/AutoIt/AutoIt_01.png)
-* Click Next and **leave all defaults selected**  
+* Click Next and **leave all defaults selected during the installation**  
 
 ![Images](Images/AutoIt/AutoIt_02.png)
 * Click I Agree  
@@ -189,12 +186,11 @@ Folder structure that we cloned
 *AutoIt Installation Complete*
 
 ## <a name="rivatuner"></a>RivaTuner Installation 
-* Download the RivaTuner Setup file
-* Double Click on RTSSSetup732.exe
+* Download the RivaTuner setup file and double click on RTSSSetup732.exe
   * if a User Account Control window appears, select Yes      
 
 ![Images](Images/RivaTuner/RivaTuner_01.png)
-* Select Ok and **Leave all defaults selected**
+* Select Ok and **leave all defaults selected during the installation**
 
 ![Images](Images/RivaTuner/RivaTuner_02.png)
 * Select Next
@@ -227,7 +223,7 @@ Folder structure that we cloned
 * RivaTuner will now open and display as an icon on the task tray on the bottom right above the clock. Click on the icon to open RivaTuner.
 
 ![Images](Images/RivaTuner/RivaTuner_11.png)  
-**Once Riva Tuner is open change the following settings**
+**Once Riva Tuner is open, navigate to the settings and change the following:**
 * Settings
   * Start with Windows "On"
   * Application Detection level "High"
@@ -237,5 +233,5 @@ Folder structure that we cloned
 
 
 ## Installation Complete
-If all the previous installation steps have been completed, go to the Usage page for further instructructions.     
+Congratulations, you have successfully installed RivaTuner. Continue to the usage page for further instructions on how to use it.     
 [MyBotRun Usage](Usage.md)  
