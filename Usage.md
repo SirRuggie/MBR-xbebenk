@@ -107,8 +107,9 @@ In order for MyBotRun to work properly with a Town Hall 3 account, it must have 
 
 ## <a name="multi"></a>TO DO
 
-Update Power Options
-Disable Windows Update
+Update Power Options  
+Disable Windows Update  
+VC 2010 C++ Might be needed at times... 
 
 
 
