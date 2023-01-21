@@ -230,11 +230,42 @@ Verify the folder structure that was cloned
   * Framerate limit "20"
 
 * Minimize RivaTuner **DO NOT Close**
-
+Congratulations, you have successfully installed RivaTuner.
 
 ## <a name="memreduct"></a>MemReduct Installation 
+MemReduct cleans any cached memory to ensure your system is running smoothly.
+* Download the MemReduct setup file and double click on memreduct-3.4-setup.exe
+  * if a User Account Control window appears, select Yes     
 
+![Images](Images/MemReduct/MemReduct_01.png)
+* Select Next and **leave all defaults selected during the installation**
+
+![Images](Images/MemReduct/MemReduct_02.png)
+* Accept the terms and click Next
+
+![Images](Images/MemReduct/MemReduct_03.png)
+* Click Next
+
+![Images](Images/MemReduct/MemReduct_04.png)
+* Click Install
+
+![Images](Images/MemReduct/MemReduct_05.png)
+* Click Yes when the Update popup displays to update.
+
+![Images](Images/MemReduct/MemReduct_06.png)
+* Click Close
+
+![Images](Images/MemReduct/MemReduct_07.png)
+* On the Mem Reduct Application, click Settings on the top Menu bar.
+  * Check "Load on system startup"
+  * Check "Start minimized"
+
+![Images](Images/MemReduct/MemReduct_08.png)
+* Click "Clean memory" and "Yes" to confirm
+* Close the menu and exit out of any installation window that is still open. 
+
+Congratulations, you have successfully installed MemReduct.
 
 ## Installation Complete
-Congratulations, you have successfully installed RivaTuner. Continue to the usage page for further instructions on how to use it.     
+Continue to the usage page for further instructions on how to use it.     
 [MyBotRun Usage](Usage.md)  
