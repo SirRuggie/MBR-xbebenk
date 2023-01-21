@@ -14,6 +14,7 @@ You can find the direct link to the bot repository: [MBR_xbebenkMod](https://git
 * SourceTree (3.4.10)
 * AutoIt (3.3.14.5)
 * RivaTuner
+* memreduct-3.4-setup.exe
 
 ## Quicklinks for Installation
 * [Initial Setup](InitialSetup.md) 
