@@ -6,6 +6,7 @@
 [Step 3: SourceTree](InitialSetup.md#sourcetree)  
 [Step 4: AutoIt](InitialSetup.md#autoit)  
 [Step 5: RivaTuner](InitialSetup.md#rivatuner)  
+[Step 6: MemReduct](InitialSetup.md#memreduct)  
 
 ## <a name="bluestacks"></a>BlueStacks Installation
 * Download the BlueStacks Setup file
