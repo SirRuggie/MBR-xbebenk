@@ -87,7 +87,7 @@ By default, each instance will be named "BlueStacks App Player" followed by a nu
 ![Images](Images/BlueStacks/BlueStacks_16.png)
 * Click the "Clone Instance" button to create a copy of the first BlueStacks instance
 
-![Images](Images/BlueStacks/BlueStacks_17.png)
+![Images](Images/BlueStacks/BlueStacks_17.png)  
 * Repeat these steps to create additional BlueStacks instances and make sure to name them accordingly (e.g. "Nougat32", "Nougat32_1", "Nougat32_2", etc.) for use with the bot.
   * Instance count can be changed to 2 or more (*Not all machines can handle more than 2. This will be based on your machines performance*)
 
