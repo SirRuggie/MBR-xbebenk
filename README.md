@@ -23,6 +23,7 @@ You can find the direct link to the bot repository: [MBR_xbebenkMod](https://git
   * [SourceTree](InitialSetup.md#sourcetree)  
   * [AutoIt](InitialSetup.md#autoit)  
   * [RivaTuner](InitialSetup.md#rivatuner)  
+  * [MemReduct](InitialSetup.md#memreduct)  
 
 
 ## Update/Change MOD with Sourcetree
