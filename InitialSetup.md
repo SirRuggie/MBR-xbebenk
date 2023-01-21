@@ -232,6 +232,9 @@ Verify the folder structure that was cloned
 * Minimize RivaTuner **DO NOT Close**
 
 
+## <a name="memreduct"></a>MemReduct Installation 
+
+
 ## Installation Complete
 Congratulations, you have successfully installed RivaTuner. Continue to the usage page for further instructions on how to use it.     
 [MyBotRun Usage](Usage.md)  
