@@ -105,6 +105,11 @@ In order for MyBotRun to work properly with a Town Hall 3 account, it must have 
 
 **UNDER CONSTRUCTION =]**
 
+## <a name="multi"></a>TO DO
+
+Update Power Options
+Disable Windows Update
+
 
 
  
