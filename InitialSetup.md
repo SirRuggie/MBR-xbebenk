@@ -149,11 +149,11 @@ _BlueStacks Installation and configuration complete_
 
 * Click "Clone" from the top menu in Sourcetree.
 
-![Images](Images/Sourcetree/Sourcetree_09.png)
+![Images](Images/Sourcetree/Sourcetree_09.png)  
 **Source Path:** https://github.com/xbebenk/MBR\_xbebenkMOD    
-**Destination Path:** Enter the directory where you want to save the MBR folder.  
-_In my instance, I created a folder on the desktop called xbeb, so the Destination path for me was C:\Users\User\Desktop\xbeb
-**Name:** Choose a name for your folder.
+**Destination Path:** Enter the directory where you want to save the MBR folder.   
+*In my instance, I created a folder on the desktop called xbeb, so the Destination path for me was C:\Users\User\Desktop\xbeb*  
+**Name:** Choose a name for your folder.  
 
 ![Images](Images/Sourcetree/Sourcetree_10.png)
 
