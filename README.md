@@ -19,13 +19,13 @@ You can find the direct link to the bot repository: [MBR\_xbebenkMod](https://gi
 
 ## Quicklinks for Installation
 
-* [Initial Setup](./)
-  * [BlueStacks](./#bluestacks)
-  * [Amazon Clash of Clans Install](./#cocinstall)
-  * [SourceTree](./#sourcetree)
-  * [AutoIt](./#autoit)
-  * [RivaTuner](./#rivatuner)
-  * [MemReduct](./#memreduct)
+* [Initial Setup](InitialSetup.md)
+  * [BlueStacks](InitialSetup.md/#bluestacks)
+  * [Amazon Clash of Clans Install](InitialSetup.md/#cocinstall)
+  * [SourceTree](InitialSetup.md/#sourcetree)
+  * [AutoIt](InitialSetup.md/#autoit)
+  * [RivaTuner](InitialSetup.md/#rivatuner)
+  * [MemReduct](InitialSetup.md/#memreduct)
 
 ## Update/Change MOD with Sourcetree
 
