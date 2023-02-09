@@ -2,12 +2,12 @@
 
 ## Installation QuickLinks
 
-[Step 1: BlueStacks](#bluestacks)
-[Step 2: Amazon Clash of Clans Install](#cocinstall)
-[Step 3: SourceTree](#sourcetree)
-[Step 4: AutoIt](#autoit)
-[Step 5: RivaTuner](#rivatuner)
-[Step 6: MemReduct](#memreduct)
+[Step 1: BlueStacks](#bluestacks)  
+[Step 2: Amazon Clash of Clans Install](#cocinstall)  
+[Step 3: SourceTree](#sourcetree)  
+[Step 4: AutoIt](#autoit)  
+[Step 5: RivaTuner](#rivatuner)  
+[Step 6: MemReduct](#memreduct)  
 
 ## BlueStacks Installation <a href="#bluestacks" id="bluestacks"></a>
 
