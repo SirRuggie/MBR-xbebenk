@@ -6,7 +6,7 @@ coverY: 0
 
 # 👋 Welcome!
 
-This guide gives you everything you need to set up the MyBotRun xbebenk MOD. You can get the link to the bot's source directly: [MBR\_xbebenkMod](https://github.com/xbebenk/MBR\_xbebenkMod)
+Get ready to set up the MyBotRun xbebenk MOD with this comprehensive guide. It has all the information you need! You can find the original GitHub link directly at [MBR\_xbebenkMod](https://github.com/xbebenk/MBR\_xbebenkMod). This guide was created by Ruggie, and if you have any questions or feel that something is missing, feel free to contact me on Discord at @sirruggie.
 
 {% hint style="danger" %}
 **Please Note!**
