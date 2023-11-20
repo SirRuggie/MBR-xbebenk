@@ -57,6 +57,11 @@ _In my instance, I created a folder on the desktop called xbeb, so the Destinati
 
 
     <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Cloned Repo</p></figcaption></figure>
+
+{% hint style="info" %}
+Expand REMOTES on the left-hand side and double click dev\_1.2.5 to check out the latest branch.
+{% endhint %}
+
 *   Folder Contents
 
     <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>

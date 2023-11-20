@@ -2,6 +2,10 @@
 
 ## How to switch between "Main" and "Dev" branches of xbebenk
 
+{% hint style="success" %}
+Current Dev Branch is dev\_1.2.5
+{% endhint %}
+
 In Sourcetree, the sidebar to your left indicates which branch or version of the mod you're currently using and also shows available branches you may switch to.
 
 ![Images](https://github.com/smbridges91/MBR-xbebenk/raw/main/Images/Sourcetree/Sourcetree\_20.png)\

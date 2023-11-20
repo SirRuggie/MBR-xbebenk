@@ -7,12 +7,12 @@
 *   Click on Download APK\
 
 
-    <figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 *   Scroll down and click Download APK again
 
     <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 * Once Downloaded, open your BlueStacks instance
-*   Click on +APK from the menu bar on the right side of the BlueStacks instnace
+*   Click on +APK from the menu bar on the right side of the BlueStacks instance
 
     <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 *   Browse for the Clash of Clans APK you downloaded and open it from the explorer that opened from BlueStacks and wait for it to install.

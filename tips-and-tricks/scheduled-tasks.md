@@ -52,7 +52,7 @@ I personally have my bot rebooting on a daily basis since BuilderBase 2.0 arrive
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
     </div>
 
